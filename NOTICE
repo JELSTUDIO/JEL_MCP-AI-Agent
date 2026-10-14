@@ -1,0 +1,33 @@
+JELSTUDIO MCP AI Chatbot/Agent - Project Credits
+-------------------------------------------------------------------------------
+
+Scripts:
+  - chatbot_MCP2enabled_GUI
+  - mcp2_server
+
+-------------------------------------------------------------------------------
+COPYRIGHT
+-------------------------------------------------------------------------------
+
+Copyright 2026 JELSTUDIO
+
+All rights reserved. This repository contains software developed by JELSTUDIO.
+
+-------------------------------------------------------------------------------
+THIRD-PARTY SOFTWARE CREDITS
+-------------------------------------------------------------------------------
+This project relies on the following primary third-party libraries:
+
+* mcp: Licensed under the MIT License.
+* ollama: Licensed under the MIT License.
+
+Note: This software also utilizes several transitive dependencies (including pydantic, httpx, uvicorn, and others) required by the primary libraries listed above. All such components are used in accordance with their respective licenses.
+
+Additionally, this project utilizes the Python Standard Library (including tkinter, asyncio, and threading).
+
+-------------------------------------------------------------------------------
+ACKNOWLEDGMENTS
+-------------------------------------------------------------------------------
+
+Special thanks to the open-source community for the tools that make 
+this suite of utilities possible.

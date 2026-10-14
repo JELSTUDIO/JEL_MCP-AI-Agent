@@ -172,6 +172,12 @@
       defend, and hold each Contributor harmless for any liability
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
+	  
+  10. Governing Law and Jurisdiction This License shall be governed by
+      and construed in accordance with the laws of Denmark. Any disputes
+	  arising out of or in connection with this License shall be subject
+	  to the exclusive jurisdiction of the courts located in
+	  Næstved, Denmark.
 
    END OF TERMS AND CONDITIONS
 
@@ -186,7 +192,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2026 JELSTUDIO
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
